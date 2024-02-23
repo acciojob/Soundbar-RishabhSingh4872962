@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+#buttons{
+	background-color:#a164df;
+	height:100px;
+	display:flex;
+	align-items:center;
+	justify-content:space-around;
+}
+button{
+	background-color:#639;
+	color:wheat;
+	height:25px;
+	width:70px;
+	border:none;
+}
